@@ -1,0 +1,16 @@
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AulaUdemy\obj\Debug\net5.0\AulaUdemy.csproj.AssemblyReference.cache
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AulaUdemy\obj\Debug\net5.0\AulaUdemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AulaUdemy\obj\Debug\net5.0\AulaUdemy.AssemblyInfoInputs.cache
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AulaUdemy\obj\Debug\net5.0\AulaUdemy.AssemblyInfo.cs
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AulaUdemy\obj\Debug\net5.0\AulaUdemy.csproj.CoreCompileInputs.cache
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AulaUdemy\bin\Debug\net5.0\AulaUdemy.exe
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AulaUdemy\bin\Debug\net5.0\AulaUdemy.deps.json
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AulaUdemy\bin\Debug\net5.0\AulaUdemy.runtimeconfig.json
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AulaUdemy\bin\Debug\net5.0\AulaUdemy.runtimeconfig.dev.json
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AulaUdemy\bin\Debug\net5.0\AulaUdemy.dll
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AulaUdemy\bin\Debug\net5.0\ref\AulaUdemy.dll
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AulaUdemy\bin\Debug\net5.0\AulaUdemy.pdb
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AulaUdemy\obj\Debug\net5.0\AulaUdemy.dll
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AulaUdemy\obj\Debug\net5.0\ref\AulaUdemy.dll
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AulaUdemy\obj\Debug\net5.0\AulaUdemy.pdb
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AulaUdemy\obj\Debug\net5.0\AulaUdemy.genruntimeconfig.cache

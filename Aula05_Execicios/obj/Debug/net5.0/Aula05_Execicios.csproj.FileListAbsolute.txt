@@ -1,0 +1,16 @@
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula05_Execicios\obj\Debug\net5.0\Aula05_Execicios.csproj.AssemblyReference.cache
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula05_Execicios\obj\Debug\net5.0\Aula05_Execicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula05_Execicios\obj\Debug\net5.0\Aula05_Execicios.AssemblyInfoInputs.cache
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula05_Execicios\obj\Debug\net5.0\Aula05_Execicios.AssemblyInfo.cs
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula05_Execicios\obj\Debug\net5.0\Aula05_Execicios.csproj.CoreCompileInputs.cache
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula05_Execicios\bin\Debug\net5.0\Aula05_Execicios.exe
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula05_Execicios\bin\Debug\net5.0\Aula05_Execicios.deps.json
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula05_Execicios\bin\Debug\net5.0\Aula05_Execicios.runtimeconfig.json
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula05_Execicios\bin\Debug\net5.0\Aula05_Execicios.runtimeconfig.dev.json
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula05_Execicios\bin\Debug\net5.0\Aula05_Execicios.dll
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula05_Execicios\bin\Debug\net5.0\ref\Aula05_Execicios.dll
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula05_Execicios\bin\Debug\net5.0\Aula05_Execicios.pdb
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula05_Execicios\obj\Debug\net5.0\Aula05_Execicios.dll
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula05_Execicios\obj\Debug\net5.0\ref\Aula05_Execicios.dll
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula05_Execicios\obj\Debug\net5.0\Aula05_Execicios.pdb
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula05_Execicios\obj\Debug\net5.0\Aula05_Execicios.genruntimeconfig.cache

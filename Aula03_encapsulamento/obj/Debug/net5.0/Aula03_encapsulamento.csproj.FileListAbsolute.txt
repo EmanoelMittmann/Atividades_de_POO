@@ -1,0 +1,5 @@
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula03_encapsulamento\obj\Debug\net5.0\Aula03_encapsulamento.csproj.AssemblyReference.cache
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula03_encapsulamento\obj\Debug\net5.0\Aula03_encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula03_encapsulamento\obj\Debug\net5.0\Aula03_encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula03_encapsulamento\obj\Debug\net5.0\Aula03_encapsulamento.AssemblyInfo.cs
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula03_encapsulamento\obj\Debug\net5.0\Aula03_encapsulamento.csproj.CoreCompileInputs.cache
