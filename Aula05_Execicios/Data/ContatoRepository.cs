@@ -3,39 +3,47 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Aula05_Execicios.Domain;
+using Microsoft.EntityFrameworkCore;
 
 namespace Aula05_Execicios.Data
 {
     public class ContatoRepository
     {
-        private List<Contato> listaDeContato = new List<Contato>();
+        private Datacontext Context;
 
+        public AgendaDeContatos(Datacontext context)
+        {
+            this.Context = context;
+        }
         public List<Contato> GetAll()
         {
-            return listaDeContato;
+            return Context.contatos.ToList();
         }
 
         public void Save(Contato contato)
         {
-            listaDeContato.Add(contato);
+            Context.Add(contato);
+            Context.SaveChanges();
         }
 
         public Contato GetById(int idContato)
         {
-            return listaDeContato.Find(p => p.Id == idContato);
+            return Context.contatos.SingleOrDefault(i=> i.Id == idContato);
         }
 
         public void Update(Contato contato)
         {
-            var contatoEditado = listaDeContato.Find( p => p.Id == contato.Id);
-
-            contatoEditado.Nome = contato.Nome;
-            contatoEditado.Telefone = contato.Telefone;
+          Context.Entry(contato).State = EntityState.Modified;
         }
 
         public void Delete(Contato contato)
         {
-            listaDeContato.Remove(contato);
+            Context.contatos.Remove(contato);
+        }
+
+        public void Disable(Contato contato)
+        {
+            
         }
     }
 }
