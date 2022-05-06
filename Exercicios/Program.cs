@@ -8,18 +8,25 @@ namespace Exercicios
         static void Main(string[] args)
         {
 
-            double largura , comprimento, precoMetroQuadrado , area, preco;
             
-            largura = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
-            comprimento = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
-            precoMetroQuadrado =  double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
+            int a,b,c,d;
+            string[] vet = Console.ReadLine().Split(' ');
 
-            area = largura * comprimento;
+            a = int.Parse(vet[0]);
+            b = int.Parse(vet[1]);
+            c = int.Parse(vet[2]);
+            d = int.Parse(vet[3]);
 
-            preco = area * precoMetroQuadrado;
-
-            Console.WriteLine("AREA = " + area.ToString("F2", CultureInfo.InvariantCulture));
-            Console.WriteLine("PRECO = " + preco.ToString("F2", CultureInfo.InvariantCulture));
+            if(b > c && d > a){
+                if((c+d) > (a+b)){
+                    if(c / 2 > 0 || d / 2 > 0 && a / 2 == 0){
+                            Console.WriteLine("Valores Aceitos");
+                    }
+                }
+            }
+            else{
+                Console.WriteLine("valores não aceitos");
+            }
 
         }
     }
