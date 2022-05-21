@@ -1,0 +1,7 @@
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula12_crudApi\obj\Debug\net5.0\Aula12_crudApi.csproj.AssemblyReference.cache
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula12_crudApi\obj\Debug\net5.0\Aula12_crudApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula12_crudApi\obj\Debug\net5.0\Aula12_crudApi.AssemblyInfoInputs.cache
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula12_crudApi\obj\Debug\net5.0\Aula12_crudApi.AssemblyInfo.cs
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula12_crudApi\obj\Debug\net5.0\Aula12_crudApi.csproj.CoreCompileInputs.cache
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula12_crudApi\obj\Debug\net5.0\Aula12_crudApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula12_crudApi\obj\Debug\net5.0\Aula12_crudApi.MvcApplicationPartsAssemblyInfo.cache

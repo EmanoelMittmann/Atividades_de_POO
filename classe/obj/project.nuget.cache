@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GnzikSQWkmmOobGQF2nkuhSBtozNwWkT3zaN2YKfMjtD4Xf1nlpIMeFphbjKhlyLYaOlukoOd5P9HaoQ5n4mAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emanoel\\OneDrive\\Documentos\\ulbra\\POO\\classe\\classe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emanoel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -11,11 +11,11 @@ namespace Aula03_encapsulamento.Domain
         public Mochila(int id, string descricao, decimal preco, int quantMax, string eCor) 
         {
             this.Id = id;
-    this.Descricao = descricao;
-    this.Preco = preco;
-    this.QuantMax = quantMax;
-    this.eCor = cor;
-   
+            this.Descricao = descricao;
+            this.Preco = preco;
+            this.QuantMax = quantMax;
+            this.eCor = ecor;
+        
         }
         public int Id { get; private set; }
 
