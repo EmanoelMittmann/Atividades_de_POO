@@ -5,7 +5,6 @@ C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula11_crudPeople\bin\Debug\net5.
 C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula11_crudPeople\bin\Debug\net5.0\Aula11_crudPeople.runtimeconfig.json
 C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula11_crudPeople\bin\Debug\net5.0\Aula11_crudPeople.runtimeconfig.dev.json
 C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula11_crudPeople\bin\Debug\net5.0\Aula11_crudPeople.dll
-C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula11_crudPeople\bin\Debug\net5.0\ref\Aula11_crudPeople.dll
 C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula11_crudPeople\bin\Debug\net5.0\Aula11_crudPeople.pdb
 C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula11_crudPeople\bin\Debug\net5.0\Microsoft.OpenApi.dll
 C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula11_crudPeople\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
@@ -19,7 +18,6 @@ C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula11_crudPeople\obj\Debug\net5.
 C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula11_crudPeople\obj\Debug\net5.0\Aula11_crudPeople.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula11_crudPeople\obj\Debug\net5.0\Aula11_crudPeople.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula11_crudPeople\obj\Debug\net5.0\staticwebassets\Aula11_crudPeople.StaticWebAssets.Manifest.cache
-C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula11_crudPeople\obj\Debug\net5.0\staticwebassets\Aula11_crudPeople.StaticWebAssets.xml
 C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula11_crudPeople\obj\Debug\net5.0\scopedcss\bundle\Aula11_crudPeople.styles.css
 C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula11_crudPeople\obj\Debug\net5.0\Aula11_crudPeople.RazorTargetAssemblyInfo.cache
 C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula11_crudPeople\obj\Debug\net5.0\Aula11_crudPeople.csproj.CopyComplete
@@ -36,3 +34,4 @@ C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula11_crudPeople\bin\Debug\net5.
 C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula11_crudPeople\bin\Debug\net5.0\Npgsql.dll
 C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula11_crudPeople\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula11_crudPeople\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\Aula11_crudPeople\obj\Debug\net5.0\refint\Aula11_crudPeople.dll

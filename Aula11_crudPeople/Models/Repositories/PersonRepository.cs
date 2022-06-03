@@ -15,7 +15,7 @@ namespace Aula11_crudPeople.Models.Repositories
         }
         public void Create(Person person)
         {
-            person.City = context.Cities.SingleOrDefault(x=>x.id == person.City.Id);
+            person.City = context.Cities.SingleOrDefault(x=>x.Id == person.City.Id);
             context.Add(person);
             context.SaveChanges();
         }
@@ -27,7 +27,8 @@ namespace Aula11_crudPeople.Models.Repositories
 
         public List<Person> GetAll()
         {
-           return context.People.Include(c=>c.City).ToList();
+           return context.People
+           .Include(c=>c.City).ToList();
         }
 
         public Person GetById(int Id)
@@ -37,7 +38,8 @@ namespace Aula11_crudPeople.Models.Repositories
 
         public void Update(Person person)
         {
-            throw new NotImplementedException();
+            context.People.Update(person);
+            context.SaveChanges();
         }
     }
 }

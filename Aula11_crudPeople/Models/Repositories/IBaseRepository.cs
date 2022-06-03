@@ -9,9 +9,9 @@ namespace Aula11_crudPeople.Models.Repositories
        where Entity : class
     {
         Entity GetById(int id);
-        List<PersonRepository> GetAll();
-        void Create(PersonRepository person);
-        void Update(PersonRepository person);
+        List<Entity> GetAll();
+        void Create(Entity entity);
+        void Update(Entity entity);
         void Delete(int id);
     }
 }

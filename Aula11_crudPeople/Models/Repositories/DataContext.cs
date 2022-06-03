@@ -15,6 +15,9 @@ namespace Aula11_crudPeople.Models.Repositories
         {}
 
         public DbSet<Person> People{get; set;}
+        public DbSet<City> Cities{get; set;}
+        public DbSet<Address> addresses { get; set; }
+
        
     }
 }
