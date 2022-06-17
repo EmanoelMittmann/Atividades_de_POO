@@ -16,22 +16,15 @@ namespace Trabalho.Models.Repository
             this.context = context;
         }
 
-        public Bank GetById(int id)
-        {
-            return context.DbSetBank.SingleOrDefault(Bank => Bank.Id_bank == id);
-        }
-
         public void Create(Bank entity)
         {
             context.Add(entity);
-            context.SaveChanges();
         }
 
         public void Delete(int id)
         {
-            var del = GetById(id);
+            var del = GetByIdAsync(id);
             context.Remove(del);
-            context.SaveChanges();
         }
         public async Task <List<Bank>> GetAll()
         {
@@ -39,13 +32,13 @@ namespace Trabalho.Models.Repository
         }
         public void Update(Bank bank)
         {
-            context.DbSetBank.Update(bank);
-            context.SaveChanges();
+            context.Entry(bank).State = EntityState.Modified;
         }
 
-        public void create(Bank entity)
+        public async Task<Bank> GetByIdAsync(int id)
         {
-            throw new NotImplementedException();
+            return await context.DbSetBank.SingleOrDefaultAsync(x => x.Id_bank == id);
+
         }
     }
 

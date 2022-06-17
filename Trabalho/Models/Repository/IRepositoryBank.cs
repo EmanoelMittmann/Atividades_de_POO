@@ -4,6 +4,6 @@ namespace Trabalho.Models.Repository
 {
     public interface IRepositoryBank : IBaseRepository<Bank>
     {
-    
+        
     }
 }
