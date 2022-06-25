@@ -7,7 +7,7 @@ namespace atividadeAS.models.Domain
 {
     public class Emprestimo
     {
-        public Emprestimo(LivroDomain id_Livro, Usuario user_Cpf, DateTime data_emprestimo, DateTime data_entrega, int prazo)
+        public Emprestimo(Livro id_Livro, Usuario user_Cpf, DateTime data_emprestimo, DateTime data_entrega, int prazo)
         {
             Id_Livro = id_Livro;
             User_Cpf = user_Cpf;
@@ -16,7 +16,7 @@ namespace atividadeAS.models.Domain
             this.prazo = prazo;
         }
 
-        public LivroDomain Id_Livro{ get; set;}
+        public Livro Id_Livro{ get; set;}
         public Usuario User_Cpf{ get; set;}
         public DateTime data_emprestimo{ get; set;}
         public DateTime data_entrega{ get; set;}

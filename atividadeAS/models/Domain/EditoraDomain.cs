@@ -7,14 +7,14 @@ namespace atividadeAS.models.Domain
 {
     public class EditoraDomain
     {
-        public EditoraDomain(int id, string nome, string cidade)
+        public EditoraDomain(int id_edit, string nome, string cidade)
         {
-            this.id = id;
+            this.Id_Edit = id_edit;
             this.nome = nome;
             this.cidade = cidade;
         }
 
-        public int id { get; set; }
+        public int Id_Edit { get; set; }
         public string nome {get; set;}
         public string cidade{ get; set;}
     }

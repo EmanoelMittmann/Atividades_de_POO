@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 
 namespace atividadeAS.models.Domain
 {
-    public class LivroDomain
+    public class Livro
     {
-        public LivroDomain(int id_Livro, string titulo, int num_edit, int volume, int genero_id, int editora_id)
+        public Livro(int id_Livro, string titulo, int num_edit, int volume, int genero_id, int editora_id)
         {
             Id_Livro = id_Livro;
             this.Titulo = titulo;
@@ -20,6 +20,7 @@ namespace atividadeAS.models.Domain
         public int Num_edit { get; set; }
         public int Volume { get; set; }
         public EditoraDomain Id_Edit {get; set;}
-       
+        public Autor Id_Autor{get; set;}
+        public Genero Id_Genero{get; set;}
 }
 }
