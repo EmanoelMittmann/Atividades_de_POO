@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{25A5DFE3-2C70-4673-B61B-1C97C1931457}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Repository/Datacontext.cs">
+    <Files>
+      <File FileName="Models/Repository/Datacontext.cs" Line="16" Column="9" />
+      <File FileName="appsettings.json" Line="3" Column="59" />
+      <File FileName="Program.cs" Line="14" Column="31" />
+      <File FileName="Migrations/20220610000004_firstMigration.cs" Line="1" Column="1" />
+      <File FileName="Models/Repository/IBaseRepository.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Trabalho" expanded="True">
+            <Node name="Trabalho" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Trabalho PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
