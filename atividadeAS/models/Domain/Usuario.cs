@@ -7,6 +7,7 @@ namespace atividadeAS.models.Domain
 {
     public class Usuario
     {
+        public int Id_user{get; set;}
         public int CPF { get; set; }
         public string Nome { get; set; }
         public string Endereco { get; set;}

@@ -17,6 +17,7 @@ namespace atividadeAS.Types
             builder.Property(Livro => Livro.Titulo).HasColumnType("varchar(50)");
             builder.Property(Livro => Livro.Num_edit).HasColumnType("Int");
             builder.Property(Livro => Livro.Volume).HasColumnType("Int");
+
         }
     }
 }
