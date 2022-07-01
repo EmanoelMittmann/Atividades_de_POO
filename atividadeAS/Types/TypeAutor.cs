@@ -14,7 +14,7 @@ namespace atividadeAS.Types
         {
             builder.ToTable("autor");
             builder.HasKey(autor => autor.Id_Autor);
-            builder.Property(autor => autor.nome).HasColumnType("varchar(50)"); 
+            builder.Property(autor => autor.Nome).HasColumnType("varchar(50)"); 
             
         }
     }

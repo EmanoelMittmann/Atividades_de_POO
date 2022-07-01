@@ -8,9 +8,9 @@ using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace atividadeAS.Types
 {
-    public class TypeEmprestimo : IEntityTypeConfiguration<Emprestimo>
+    public class TypeEmprestimo : IEntityTypeConfiguration<EmprestimoDomain>
     {
-        public void Configure(EntityTypeBuilder<Emprestimo> builder)
+        public void Configure(EntityTypeBuilder<EmprestimoDomain> builder)
         {
             builder.ToTable("emprestimo");
             builder.Property(emprestimo => emprestimo.data_entrega).HasColumnType("date");

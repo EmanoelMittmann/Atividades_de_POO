@@ -7,11 +7,11 @@ using Microsoft.EntityFrameworkCore;
 
 namespace atividadeAS.models.repository
 {
-    public class usuarioRepository : IUsuarioRepository
+    public class UsuarioRepository : IUsuarioRepository
     {
         private Datacontext context;
 
-        public usuarioRepository(Datacontext context){
+        public UsuarioRepository(Datacontext context){
             this.context = context;
         }
 
@@ -44,5 +44,8 @@ namespace atividadeAS.models.repository
 
     public interface IUsuarioRepository
     {
+        Task<List<Usuario>> GetAll();
+        void Create(Usuario user);
+        void Update(Usuario user);
     }
 }

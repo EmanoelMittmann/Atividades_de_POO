@@ -2,10 +2,11 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using atividadeAS.models.Domain;
 
-namespace atividadeAS.models.Domain
+namespace atividadeAS.Viewsmodels
 {
-    public class EmprestimoDomain
+    public class EmprestimoViewModels
     {
         public int Id_empres { get; set; }
         public Livro Id_Livro{ get; set;}

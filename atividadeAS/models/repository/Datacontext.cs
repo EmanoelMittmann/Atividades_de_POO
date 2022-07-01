@@ -17,10 +17,15 @@ namespace atividadeAS.models.repository
         protected override void OnModelCreating(ModelBuilder mbuild)
         {
             mbuild.ApplyConfiguration(new TypeLivro());
+            mbuild.ApplyConfiguration(new TypeAutor());
+            mbuild.ApplyConfiguration(new TypeEmprestimo());
+            mbuild.ApplyConfiguration(new TypeUsuario());
+            mbuild.ApplyConfiguration(new TypeEditora());
+            mbuild.ApplyConfiguration(new TypeGenero());
         }
 
         public DbSet<Usuario> DbSetUser { get; set; }
-        public DbSet<Emprestimo> DbSetEmprest { get; set; }
+        public DbSet<EmprestimoDomain> DbSetEmprest { get; set; }
         public DbSet<EditoraDomain> DbSetEditora { get; set; }
         public DbSet<Autor> DbSetAutor { get; set;}
         public DbSet<Livro> DbSetLivro {get;set;}

@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace atividadeAS.models.repository
 {
-    public class AutorRepository : IAutorRepository
+    public class AutorRepository:IAutorRepository
     {
         private Datacontext contextAutor;
 
@@ -35,9 +35,17 @@ namespace atividadeAS.models.repository
         {
             return await contextAutor.DbSetAutor.SingleOrDefaultAsync(x => x.Id_Autor == id);
         }
+
+        public void Update(Autor autor)
+        {
+            throw new NotImplementedException();
+        }
     }
 
     public interface IAutorRepository
     {
+        void Update(Autor autor);
+        void Create(Autor autor);
+        Task<List<Autor>> GetAll();
     }
 }

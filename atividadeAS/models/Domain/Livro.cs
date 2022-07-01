@@ -7,13 +7,6 @@ namespace atividadeAS.models.Domain
 {
     public class Livro
     {
-        public Livro(int id_Livro, string titulo, int num_edit, int volume, int genero_id, int editora_id)
-        {
-            Id_Livro = id_Livro;
-            this.Titulo = titulo;
-            Num_edit = num_edit;
-            Volume = volume;
-        }
 
         public int Id_Livro { get; set; }
         public string Titulo { get; set; }
