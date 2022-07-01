@@ -7,37 +7,34 @@ using Microsoft.EntityFrameworkCore;
 
 namespace atividadeAS.models.repository
 {
-    public class EmprestimoRepository : IAutorRepository
+    public class EmprestimoRepository : IEmprestimoRespository
     {
-        private Datacontext contextAutor;
+        private Datacontext context;
 
         public EmprestimoRepository( Datacontext context)
         {
-            this.contextAutor = context;
+            this.context = context;
         }
         public void Create(Autor entity)
         {
-            contextAutor.Add(entity);
+            context.Add(entity);
         }
 
         public void Delete(int id)
         {
             var del = GetByIdAsync(id);
-            contextAutor.Remove(del);
+            context.Remove(del);
         }
 
         public async Task <List<Autor>> GetAll()
         {
-            return await contextAutor.DbSetAutor.ToListAsync();
+            return await context.DbSetEmprestimo.ToListAsync();
         }
 
         public async Task<Autor> GetByIdAsync(int id)
         {
-            return await contextAutor.DbSetAutor.SingleOrDefaultAsync(x => x.Id_Autor == id);
+            return await context.DbSetEmprestimo.SingleOrDefaultAsync(x => x.Id_Autor == id);
         }
     }
 
-    public interface IAutorRepository
-    {
-    }
 }
