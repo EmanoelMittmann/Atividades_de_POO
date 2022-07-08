@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emanoel\\OneDrive\\Documentos\\ulbra\\poo\\atividadeAS\\atividadeAS.csproj": {}
+    "C:\\Users\\Emanoel\\OneDrive\\Documentos\\ulbra\\POO\\atividadeAS\\atividadeAS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emanoel\\OneDrive\\Documentos\\ulbra\\poo\\atividadeAS\\atividadeAS.csproj": {
+    "C:\\Users\\Emanoel\\OneDrive\\Documentos\\ulbra\\POO\\atividadeAS\\atividadeAS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emanoel\\OneDrive\\Documentos\\ulbra\\poo\\atividadeAS\\atividadeAS.csproj",
+        "projectUniqueName": "C:\\Users\\Emanoel\\OneDrive\\Documentos\\ulbra\\POO\\atividadeAS\\atividadeAS.csproj",
         "projectName": "atividadeAS",
-        "projectPath": "C:\\Users\\Emanoel\\OneDrive\\Documentos\\ulbra\\poo\\atividadeAS\\atividadeAS.csproj",
+        "projectPath": "C:\\Users\\Emanoel\\OneDrive\\Documentos\\ulbra\\POO\\atividadeAS\\atividadeAS.csproj",
         "packagesPath": "C:\\Users\\Emanoel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emanoel\\OneDrive\\Documentos\\ulbra\\poo\\atividadeAS\\obj\\",
+        "outputPath": "C:\\Users\\Emanoel\\OneDrive\\Documentos\\ulbra\\POO\\atividadeAS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Emanoel\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -40,17 +40,17 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.6, )"
+              "version": "[6.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.6, )"
+              "version": "[6.0.3, )"
             },
-            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[6.0.5, )"
+              "version": "[6.0.3, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

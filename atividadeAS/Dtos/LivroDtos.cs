@@ -13,15 +13,5 @@ namespace atividadeAS.Dtos
         public int Num_edit { get; set; }
         public int Volume { get; set; }
 
-        public LivroDtos(Livro entity)
-        {
-            Id_Livro = entity.Id_Livro;
-            Titulo = entity.Titulo;
-            Num_edit = entity.Num_edit;
-            Volume = entity.Volume;
-        }
-        public LivroDtos(){
-            
-        }
     }
 }

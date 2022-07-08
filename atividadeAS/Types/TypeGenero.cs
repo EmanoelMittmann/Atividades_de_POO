@@ -13,8 +13,12 @@ namespace atividadeAS.Types
         public void Configure(EntityTypeBuilder<Genero> builder)
         {
             builder.ToTable("genero");
+            builder.Property(genero => genero.Id_Genero)
+                .HasColumnName("id_genero");
             builder.HasKey(genero => genero.Id_Genero);
-            builder.Property(genero => genero.nome).HasColumnType("varchar(50)");
+            builder.Property(genero => genero.nome)
+                .HasColumnType("NVARCHAR")
+                .HasMaxLength(50);
         }
          
     }

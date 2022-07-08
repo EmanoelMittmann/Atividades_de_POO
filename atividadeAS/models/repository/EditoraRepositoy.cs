@@ -9,9 +9,9 @@ namespace atividadeAS.models.repository
 {
     public class EditoraRepository:IEditoraRepository 
     {
-        private Datacontext context;
+        private DataContext context;
         
-        public EditoraRepository(Datacontext context){
+        public EditoraRepository(DataContext context){
           this.context = context;
         }
 

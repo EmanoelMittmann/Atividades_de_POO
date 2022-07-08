@@ -13,8 +13,13 @@ namespace atividadeAS.Types
         public void Configure(EntityTypeBuilder<Autor> builder)
         {
             builder.ToTable("autor");
+            builder.Property(autor => autor.Id_Autor)
+                .HasColumnName("id");
             builder.HasKey(autor => autor.Id_Autor);
-            builder.Property(autor => autor.Nome).HasColumnType("varchar(50)"); 
+            builder.Property(autor => autor.Nome)
+                .HasColumnType("NVARCHAR")
+                .HasColumnName("Nome")
+                .HasMaxLength(30);  
             
         }
     }

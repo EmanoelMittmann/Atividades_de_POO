@@ -11,14 +11,5 @@ namespace atividadeAS.Dtos
         public int Id_Genero{ get; set; }
         public string Nome{ get; set; }
 
-        public GeneroDtos(Genero entity)
-        {
-            Id_Genero = entity.Id_Genero;
-            Nome = entity.nome;
-        }
-        public GeneroDtos()
-        {
-
-        }
     }
 }

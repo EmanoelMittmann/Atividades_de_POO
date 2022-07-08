@@ -9,9 +9,9 @@ namespace atividadeAS.models.repository
 {
     public class GeneroRepository:IGeneroRepository 
     {
-        private Datacontext context;
+        private DataContext context;
         
-        public GeneroRepository(Datacontext context){
+        public GeneroRepository(DataContext context){
           this.context = context;
         }
 

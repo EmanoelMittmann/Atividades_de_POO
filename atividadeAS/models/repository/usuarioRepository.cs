@@ -9,9 +9,9 @@ namespace atividadeAS.models.repository
 {
     public class UsuarioRepository : IUsuarioRepository
     {
-        private Datacontext context;
+        private DataContext context;
 
-        public UsuarioRepository(Datacontext context){
+        public UsuarioRepository(DataContext context){
             this.context = context;
         }
 

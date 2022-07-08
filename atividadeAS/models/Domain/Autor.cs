@@ -9,5 +9,6 @@ namespace atividadeAS.models.Domain
     {
         public int Id_Autor{ get; set; }
         public string Nome{ get; set; }
+        public IList<Livro> Livros { get; set; }
     }
 }

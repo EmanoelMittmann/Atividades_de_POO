@@ -9,9 +9,9 @@ namespace atividadeAS.models.repository
 {
      public class EmprestimoRepository : IEmprestimoRespository
     {
-        private Datacontext context;
+        private DataContext context;
 
-        public EmprestimoRepository( Datacontext context)
+        public EmprestimoRepository( DataContext context)
         {
             this.context = context;
         }

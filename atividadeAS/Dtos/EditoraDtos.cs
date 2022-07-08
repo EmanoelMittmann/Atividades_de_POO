@@ -12,14 +12,5 @@ namespace atividadeAS.Dtos
         public string Nome {get; set;}
         public string Cidade{ get; set;}
 
-        public EditoraDtos(EditoraDomain entity)
-        {   
-            Id_Edit = entity.Id_Edit;
-            Nome = entity.nome;
-            Cidade = entity.cidade;
-        }
-        public EditoraDtos(){
-
-        }
     }
 }

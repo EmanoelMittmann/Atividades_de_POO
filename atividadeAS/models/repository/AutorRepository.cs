@@ -9,9 +9,9 @@ namespace atividadeAS.models.repository
 {
     public class AutorRepository:IAutorRepository
     {
-        private Datacontext contextAutor;
+        private DataContext contextAutor;
 
-        public AutorRepository( Datacontext context)
+        public AutorRepository( DataContext context)
         {
             this.contextAutor = context;
         }

@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using atividadeAS.models.repository;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -26,6 +27,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+builder.Services.AddDbContext<DataContext>(
+    opts=>opts.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection"))
+);
 
 app.UseHttpsRedirection();
 

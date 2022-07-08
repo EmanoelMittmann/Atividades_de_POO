@@ -13,12 +13,29 @@ namespace atividadeAS.Types
         public void Configure(EntityTypeBuilder<Usuario> builder)
         {
             builder.ToTable("user");
+            builder.Property(user => user.Id_user)
+                .HasColumnName("Id_user");
             builder.HasKey(user => user.Id_user);
-            builder.Property(user => user.CPF).HasColumnType("varchar(11)");
-            builder.Property(user => user.Nome).HasColumnType("varchar(50)");
-            builder.Property(user => user.Email).HasColumnType("varchar(25)");
-            builder.Property(user => user.Endereco).HasColumnType("varchar(50)");
-            builder.Property(user => user.Telefone).HasColumnType("varchar(11)");
+            builder.Property(user => user.CPF)
+                .HasColumnName("CPF")
+                .HasColumnType("NVARCHAR")
+                .HasMaxLength(50);
+            builder.Property(user => user.Nome)
+                .HasColumnName("Nome")
+                .HasColumnType("NVARCHAR")
+                .HasMaxLength(30);
+            builder.Property(user => user.Email)
+                .HasColumnName("Email")
+                .HasColumnType("NVARCHAR")
+                .HasMaxLength(30);
+            builder.Property(user => user.Endereco)
+                .HasColumnName("Endereco")
+                .HasColumnType("NVARCHAR")
+                .HasMaxLength(30);
+            builder.Property(user => user.Telefone)
+                .HasColumnName("Telefone")
+                .HasColumnType("NVARCHAR")
+                .HasMaxLength(11);
             
         }
     }

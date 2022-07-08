@@ -31,10 +31,10 @@ namespace atividadeAS.Controllers
             foreach(var procura in DbSetEmprest)
             {
                 var Dtos = new EmprestimoDtos(){
-                   Id_Livro = procura.Id_Livro,
+                   LivroId = procura.Livro,
                    data_emprestimo = procura.data_emprestimo,
                    data_entrega = procura.data_entrega,
-                   User_Cpf = procura.User_Cpf,
+                   User_Cpf = procura.User,
                    prazo = procura.prazo
                 };
                 empresDto.Add(Dtos);
@@ -48,10 +48,10 @@ namespace atividadeAS.Controllers
         {
             var dados = new EmprestimoDomain
             {
-                Id_Livro = entity.Id_Livro,
+                Livro = entity.Id_Livro,
                 data_emprestimo = entity.data_emprestimo,
                 data_entrega = entity.data_entrega,
-                User_Cpf = entity.User_Cpf,
+                User = entity.User_Cpf,
                 prazo = entity.prazo
             };
             _repository.Create(dados);

@@ -7,9 +7,9 @@ namespace atividadeAS.models.repository
 {
     public class UnitOfwork: IUnitOfwork
     {
-        private readonly Datacontext _data;
+        private readonly DataContext _data;
 
-        public UnitOfwork(Datacontext context)
+        public UnitOfwork(DataContext context)
         {
             this._data = context;
         }
