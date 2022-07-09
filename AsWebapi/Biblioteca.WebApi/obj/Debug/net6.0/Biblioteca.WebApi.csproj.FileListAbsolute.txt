@@ -1,0 +1,108 @@
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/appsettings.Development.json
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/appsettings.json
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/Biblioteca.WebApi
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/Biblioteca.WebApi.deps.json
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/Biblioteca.WebApi.runtimeconfig.json
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/Biblioteca.WebApi.dll
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/Biblioteca.WebApi.pdb
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/Humanizer.dll
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/obj/Debug/net6.0/Biblioteca.WebApi.csproj.AssemblyReference.cache
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/obj/Debug/net6.0/Biblioteca.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/obj/Debug/net6.0/Biblioteca.WebApi.AssemblyInfoInputs.cache
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/obj/Debug/net6.0/Biblioteca.WebApi.AssemblyInfo.cs
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/obj/Debug/net6.0/Biblioteca.WebApi.csproj.CoreCompileInputs.cache
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/obj/Debug/net6.0/Biblioteca.WebApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/obj/Debug/net6.0/Biblioteca.WebApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/obj/Debug/net6.0/staticwebassets.build.json
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/obj/Debug/net6.0/staticwebassets.development.json
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/obj/Debug/net6.0/scopedcss/bundle/Biblioteca.WebApi.styles.css
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/obj/Debug/net6.0/Biblioteca.WebApi.csproj.CopyComplete
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/obj/Debug/net6.0/Biblioteca.WebApi.dll
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/obj/Debug/net6.0/refint/Biblioteca.WebApi.dll
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/obj/Debug/net6.0/Biblioteca.WebApi.pdb
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/obj/Debug/net6.0/Biblioteca.WebApi.genruntimeconfig.cache
+/Users/arthurrocha/Desktop/Pasta Sem Título/Biblioteca.WebApi/obj/Debug/net6.0/ref/Biblioteca.WebApi.dll
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\Biblioteca.WebApi.exe
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\Biblioteca.WebApi.deps.json
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\Biblioteca.WebApi.runtimeconfig.json
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\Biblioteca.WebApi.dll
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\Biblioteca.WebApi.pdb
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\obj\Debug\net6.0\Biblioteca.WebApi.csproj.AssemblyReference.cache
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\obj\Debug\net6.0\Biblioteca.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\obj\Debug\net6.0\Biblioteca.WebApi.AssemblyInfoInputs.cache
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\obj\Debug\net6.0\Biblioteca.WebApi.AssemblyInfo.cs
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\obj\Debug\net6.0\Biblioteca.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\obj\Debug\net6.0\Biblioteca.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\obj\Debug\net6.0\Biblioteca.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\obj\Debug\net6.0\scopedcss\bundle\Biblioteca.WebApi.styles.css
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\obj\Debug\net6.0\Biblioteca.WebApi.csproj.CopyComplete
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\obj\Debug\net6.0\Biblioteca.WebApi.dll
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\obj\Debug\net6.0\refint\Biblioteca.WebApi.dll
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\obj\Debug\net6.0\Biblioteca.WebApi.pdb
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\obj\Debug\net6.0\Biblioteca.WebApi.genruntimeconfig.cache
+C:\Users\Emanoel\OneDrive\Documentos\ulbra\POO\AsWebapi\Biblioteca.WebApi\obj\Debug\net6.0\ref\Biblioteca.WebApi.dll
